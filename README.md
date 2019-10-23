@@ -14,7 +14,7 @@ Untuk menggunakan aplikasi ini, bisa melalui dua cara:
 2. Membuka source code menggunakan compiler C. Jika belum terinstall pada komputer, bisa [diunduh disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download). Dan dilanjutkan dengan meng-compile aplikasi dari source code yang ada.
 
 ## Penggunaan
-![Turunan1](atmlogin.png)
+![Turunan1](login.png)
 ![Turunan2](atm.png)
 ![Turunan3](menu.png)
 ![Turunan4](atm1.png)
