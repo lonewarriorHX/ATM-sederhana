@@ -14,15 +14,15 @@ Untuk menggunakan aplikasi ini, bisa melalui dua cara:
 2. Membuka source code menggunakan compiler C. Jika belum terinstall pada komputer, bisa [diunduh disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download). Dan dilanjutkan dengan meng-compile aplikasi dari source code yang ada.
 
 ## Penggunaan
-![Turunan1](atmlogin.PNG)
-![Turunan2](atm.PNG)
-![Turunan3](menu.PNG)
-![Turunan4](atm1.PNG)
-![Turunan5](atm2.PNG)
-![Turunan6](atm3.PNG)
-![Turunan7](atm4.PNG)
-![Turunan8](atm5.PNG)
-![Turunan9](atm6.PNG)
+![Turunan1](atmlogin.png)
+![Turunan2](atm.png)
+![Turunan3](menu.png)
+![Turunan4](atm1.png)
+![Turunan5](atm2.png)
+![Turunan6](atm3.png)
+![Turunan7](atm4.png)
+![Turunan8](atm5.png)
+![Turunan9](atm6.png)
 
 ## Pembuat Aplikasi
 1. Helmi Arrazy (1806200141)
