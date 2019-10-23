@@ -10,7 +10,7 @@ This program is created for our mid-term project in campus. This program works a
 
 ## Instalasi
 Untuk menggunakan aplikasi ini, bisa melalui dua cara:
-1. Mengunduh [aplikasi disini](/Atmhh.exe). Pastikan sistem operasi yang digunakan adalah Windows.
+1. Mengunduh [aplikasi disini](https://github.com/lonewarriorHX/ATM-sederhana.git). Pastikan sistem operasi yang digunakan adalah Windows.Lalu buka lewat ATMhh.exe
 2. Membuka source code menggunakan compiler C. Jika belum terinstall pada komputer, bisa [diunduh disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download). Dan dilanjutkan dengan meng-compile aplikasi dari source code yang ada.
 
 
